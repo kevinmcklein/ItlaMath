@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Itla Math</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="ra">\u221A</string>
+    <string name="_9">9</string>
+    <string name="div">/</string>
+    <string name="_4">4</string>
+    <string name="_6">6</string>
+    <string name="pi">\u03C0</string>
+    <string name="_5">5</string>
+    <string name="ParAB">(</string>
+    <string name="ParCer">)</string>
+    <string name="sen">Sen</string>
+    <string name="cos">Cos</string>
+    <string name="tan">Tan</string>
+    <string name="e">\u0065</string>
+    <string name="ln">ln</string>
+    <string name="igual">=</string>
+    <string name="_3">3</string>
+    <string name="_1">1</string>
+    <string name="punto">.</string>
+    <string name="_2">2</string>
+    <string name="log">log</string>
+    <string name="pot">^</string>
+    <string name="suma">+</string>
+    <string name="fact">!</string>
+    <string name="c">C</string>
+    <string name="h">H</string>
+    <string name="_0">0</string>
+    <string name="ce">CE</string>
+    <string name="resta">-</string>
+    <string name="x">X</string>
+    <string name="csc">CSC</string>
+    <string name="sec">SEC</string>
+    <string name="cot">COT</string>
+    <string name="asen">asen</string>
+    <string name="acos">acos</string>
+    <string name="atan">atan</string>
+    <string name="shift">Shift</string>
+    <string name="bh">BH</string>
+    <string name="itla">ITLA</string>
+    <string name="d_r_g">D R G</string>
+</resources>
