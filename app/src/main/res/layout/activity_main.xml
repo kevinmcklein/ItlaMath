@@ -61,6 +61,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:background="#404040"
+                        android:onClick="LimpiarLista"
                         android:text="@string/bh"
                         android:textColor="#F9F9F9"
                         android:textSize="30sp" />
@@ -358,5 +359,30 @@
             android:id="@+id/lvHistorial"
             android:layout_width="match_parent"
             android:layout_height="match_parent" />
+
+        <TextView
+            android:id="@+id/txtTipoAngulo"
+            android:layout_width="97dp"
+            android:layout_height="51dp"
+            android:layout_marginTop="4dp"
+            android:layout_marginEnd="3dp"
+            android:layout_marginBottom="46dp"
+            android:layout_weight="1"
+            android:background="#386F74"
+            android:clickable="true"
+            android:focusable="true"
+            android:focusableInTouchMode="false"
+            android:onClick="hacerListaInVisible"
+            android:text="R"
+            android:textAlignment="center"
+            android:textColor="#F9F9F9"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toTopOf="@+id/linearLayout"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/txtoperacion"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:visibility="gone" />
+
     </LinearLayout>
 </android.support.constraint.ConstraintLayout>
